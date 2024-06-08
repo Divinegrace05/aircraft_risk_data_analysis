@@ -1,6 +1,3 @@
-# Heading 1
-## Heading 2
-### Heading 3
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -26,13 +23,13 @@ Combined emphasis with **asterisks and _underscores_**.
 ![airplanecrash](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/85025fc4-43d7-424d-b0e5-2bcdc61d9321)
 
 
-Overview
+## Overview
 This project focuses on analyzing aviation accident data to provide actionable insights for a company's new aviation division. The analysis aims to identify aircraft models with the lowest risk profiles to guide the company in selecting safe aircraft for commercial and private ventures.
 
-Business Understanding
-Stakeholder: Head of the new aviation division
+## Business Understanding
+#### Stakeholder: Head of the new aviation division
 
-Key Business Questions:
+## Key Business Questions:
 Which aircraft models offer the lowest risk profile for purchase and operation?
 What are the trends in aviation accidents over the years?
 What extent of injuries and damage types are caused by aviation accidents?
@@ -40,14 +37,14 @@ Which aircraft types are most commonly involved in accidents with minor damages 
 What are the top aircraft makes and models for specific flight purposes?
 Is there any correlation between different variables in aviation accidents?
 
-Data Understanding and Analysis
-Source of Data
+## Data Understanding and Analysis
+### Source of Data
 The dataset is sourced from the National Transportation Safety Board, containing aviation accident data from 1962 to 2023.
 
-Description of Data
+## Description of Data
 The dataset includes various details about aviation accidents, such as aircraft type, injury severity, damage type, flight purpose, and location.
 
-Visualizations
+## Visualizations
 1. Accidents over years:
 ![Accidents over years](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/bb5db6f2-c5d1-4114-8273-1c8057317531)
 2. Injurt severity by Damage Type:
