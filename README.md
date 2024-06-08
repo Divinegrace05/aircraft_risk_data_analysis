@@ -1,4 +1,7 @@
-# aircraft_risk_data_analysis
+# AIRCRAFT RISK ANALYSIS
+
+![airplanecrash](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/85025fc4-43d7-424d-b0e5-2bcdc61d9321)
+
 
 Overview
 This project focuses on analyzing aviation accident data to provide actionable insights for a company's new aviation division. The analysis aims to identify aircraft models with the lowest risk profiles to guide the company in selecting safe aircraft for commercial and private ventures.
