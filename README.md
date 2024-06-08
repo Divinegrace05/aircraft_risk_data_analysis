@@ -34,6 +34,9 @@ The [dataset]([https://www.google.com](https://www.kaggle.com/datasets/khsamaha/
 ![Aircraft type](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/36747341-b958-48e5-ab23-6669c516d9cc)
 4. Top Aircraft Makes and Models with lowest risk per Flight Purpose: 
 ![aircraft makes and models per flight purpose](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/e336117e-821a-4a7a-9307-205f7606dfcd)
+6. Correlation Analysis
+![Correlation analysis](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/49291e04-46eb-40fc-b097-21a41e6aa71d)
+   
 
 ## Conclusion:
 The analysis reveals several key insights:
@@ -42,7 +45,8 @@ The analysis reveals several key insights:
 2. Aircraft accidents often result in fatal injuries and substantial damage.
 3. Airplanes and helicopters are the most common types involved in accidents with highest count of uninjured persons.
 4. Aircrafts with fewer engines tend to have higher involvement in high risk accidents.
-5. There is no strong correlation observed between different variables in aviation accidents.
+5. There is no strong correlation observed between the variables, indicating that the factors influencing accidents, injuries, and damages are diverse and not highly interdependent. This suggests that various factors contribute independently to the outcomes of aviation accidents, emphasizing the importance of considering multiple variables in risk assessment and decision-making.
+
 
 
 ## Recommendation:
