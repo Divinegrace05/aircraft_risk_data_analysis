@@ -27,7 +27,7 @@ Visualizations
 ![Injury Severity by Damage Type](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/7bbd3ff4-b8d3-4811-9f8b-132ccfdb6f81)
 3. Aircraft Type Distribution of accidents with highest count of uninjured:
 ![Aircraft type](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/36747341-b958-48e5-ab23-6669c516d9cc)
-4. Top Aircraft Makes and Models per Flight Purpose: 
+4. Top Aircraft Makes and Models with lowest risk per Flight Purpose: 
 ![aircraft makes and models per flight purpose](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/e336117e-821a-4a7a-9307-205f7606dfcd)
 
 ## Conclusion:
