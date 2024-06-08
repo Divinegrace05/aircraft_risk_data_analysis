@@ -29,7 +29,7 @@ This project focuses on analyzing aviation accident data to provide actionable i
 ## Business Understanding
 #### Stakeholder: Head of the new aviation division
 
-## Key Business Questions:
+#### Key Business Questions:
 Which aircraft models offer the lowest risk profile for purchase and operation?
 What are the trends in aviation accidents over the years?
 What extent of injuries and damage types are caused by aviation accidents?
