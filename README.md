@@ -34,12 +34,8 @@ The [dataset]([https://www.google.com](https://www.kaggle.com/datasets/khsamaha/
 ![Aircraft type](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/36747341-b958-48e5-ab23-6669c516d9cc)
 4. Top Aircraft Makes and Models with lowest risk per Flight Purpose: 
 ![aircraft makes and models per flight purpose](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/e336117e-821a-4a7a-9307-205f7606dfcd)
-6. Correlation Analysis
+5. Correlation Analysis
 ![Correlation analysis](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/93e3139e-f320-40fb-948f-446de5313923)
-
-
-
-
 
 
 ## Conclusion:
