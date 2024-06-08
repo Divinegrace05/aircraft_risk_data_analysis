@@ -30,12 +30,12 @@ This project focuses on analyzing aviation accident data to provide actionable i
 #### Stakeholder: Head of the new aviation division
 
 #### Key Business Questions:
-Which aircraft models offer the lowest risk profile for purchase and operation?
-What are the trends in aviation accidents over the years?
-What extent of injuries and damage types are caused by aviation accidents?
-Which aircraft types are most commonly involved in accidents with minor damages and uninjured persons?
-What are the top aircraft makes and models for specific flight purposes?
-Is there any correlation between different variables in aviation accidents?
+1. Which aircraft models offer the lowest risk profile for purchase and operation?
+2. What are the trends in aviation accidents over the years?
+3. What extent of injuries and damage types are caused by aviation accidents?
+4. Which aircraft types are most commonly involved in accidents with minor damages and uninjured persons?
+5. What are the top aircraft makes and models for specific flight purposes?
+6. Is there any correlation between different variables in aviation accidents?
 
 ## Data Understanding and Analysis
 ### Source of Data
