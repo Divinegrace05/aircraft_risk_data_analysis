@@ -1,8 +1,4 @@
 
-
-![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
 # AIRCRAFT RISK ANALYSIS
 
 ![airplanecrash](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/85025fc4-43d7-424d-b0e5-2bcdc61d9321)
