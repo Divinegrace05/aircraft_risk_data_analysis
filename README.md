@@ -8,7 +8,7 @@
 This project focuses on analyzing aviation accident data to provide actionable insights for a company's new aviation division. The analysis aims to identify aircraft models with the lowest risk profiles to guide the company in selecting safe aircraft for commercial and private ventures.
 
 ## Business Understanding
-#### *Stakeholder*: Head of the new aviation division
+#### *Stakeholder*: Head of the new aviation division 
 
 #### Key Business Questions:
 1. Which aircraft models offer the lowest risk profile for purchase and operation?
