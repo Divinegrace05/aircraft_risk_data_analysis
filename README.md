@@ -49,19 +49,19 @@ Based on the analysis findings, it is recommended that the company prioritize ai
 Aircraft Type:
 1. Airplane: Considering the prevalence of airplane accidents with uninjured persons, models such as the Boeing 737 exhibit relatively lower risks.
 2. Helicopter: Despite their utility, helicopters are also commonly involved in accidents, suggesting the need for careful evaluation before selection.
+
 Flight Purposes (Top Models):
-1. Personal: Aircraft models such as the Cessna 182P are recommended for personal use due to their relatively lower involvement in accidents resulting in minor damages and uninjured persons.
+1. Personal: Aircraft models such as the Cessna 210L are recommended for personal use due to their relatively lower involvement in accidents resulting in minor damages and uninjured persons.
 2. Business: For commercial ventures, aircraft models like the Cessna S550 are preferred, given their safety records.
-3. Ferry: Airplane, CESSNA S550 DHC-7-100
+3. Ferry: CESSNA PA-31-310
 4. Executive/corporate: Airplane, PIPER PA-31-350
 5. Instructional: Airplane, PIPER PA-44-180
-6. Public Aircraft: BEECH 185
+6. Public Aircraft: BEECH BE-200
 7. Positioning: CESSNA 402C
-8. Other Work Use: CESSNA A60+
+8. Other Work Use: CESSNA MU2B
 9. Aerial Observation/Application: AIR TRACTOR AT-401
 10. Flight Test: PIPER PA-28-236
 
 Overall, the selection of aircraft should prioritize safety performance while ensuring alignment with operational needs. Thorough safety evaluations and ongoing monitoring of safety metrics are essential to mitigate risks and ensure the success and safety of aviation operations.
-
 
 Tableau : https://public.tableau.com/app/profile/grace.gitau7415/viz/TableauViz_17177744204670/AircraftRiskAnalysisWorkbook?publish=yes
