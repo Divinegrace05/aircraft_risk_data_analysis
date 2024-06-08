@@ -1,41 +1,64 @@
 # aircraft_risk_data_analysis
 
-# Overview
-This repository contains the analysis of aviation accident data from 1962 to 2023, sourced from the National Transportation Safety Board, aimed at providing actionable insights for a company's new aviation division. The analysis focuses on identifying aircraft models with the lowest risk profile, guiding the company's strategic expansion into the aviation sector.
+Overview
+This project focuses on analyzing aviation accident data to provide actionable insights for a company's new aviation division. The analysis aims to identify aircraft models with the lowest risk profiles to guide the company in selecting safe aircraft for commercial and private ventures.
 
-# Business Understanding
-The stakeholder, head of the new aviation division, seeks answers to key questions:
-1. Which aircraft types pose the lowest risk for purchase and operation?
-2. What is the safety performance of different aircraft models?
-3. How can we differentiate between aircraft suitable for commercial ventures and those more suitable for private use?
+Business Understanding
+Stakeholder: Head of the new aviation division
+Key Business Questions:
 
-# Data Understanding and Analysis
-## Source of Data
-The dataset was obtained from Kaggle, comprising civil aviation accident data from 1962 to 2023, including various attributes such as aircraft type, injury severity, and accident location.
+Which aircraft models offer the lowest risk profile for purchase and operation?
+What are the trends in aviation accidents over the years?
+What extent of injuries and damage types are caused by aviation accidents?
+Which aircraft types are most commonly involved in accidents with minor damages and uninjured persons?
+What are the top aircraft makes and models for specific flight purposes?
+Is there any correlation between different variables in aviation accidents?
+Data Understanding and Analysis
+Source of Data
+The dataset is sourced from the National Transportation Safety Board, containing aviation accident data from 1962 to 2023.
 
-## Description of Data
-The dataset consists of 88,889 entries with 31 columns, primarily categorical, and containing missing values. Key tasks included data cleaning, imputation, analysis, and visualization.
+Description of Data
+The dataset includes various details about aviation accidents, such as aircraft type, injury severity, damage type, flight purpose, and location.
 
-### Three Visualizations
-1. Trend of Aviation Accidents Over the Years
-   ![Accidents Over Years](images/accidents_over_years.png)
-   This line plot illustrates a decline in the number of aviation accidents over the years, indicating improvements in aviation safety.
+Visualizations
+1. Accidents over years:
+![Accidents over years](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/bb5db6f2-c5d1-4114-8273-1c8057317531)
+2. Injurt severity by Damage Type:
+![Injury Severity by Damage Type](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/7bbd3ff4-b8d3-4811-9f8b-132ccfdb6f81)
+3. Aircraft Type Distribution of accidents with highest count of uninjured:
+![Aircraft type](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/36747341-b958-48e5-ab23-6669c516d9cc)
+4. Top Aircraft Makes and Models per Flight Purpose: 
+![aircraft makes and models per flight purpose](https://github.com/Divinegrace05/aircraft_risk_data_analysis/assets/134943380/e336117e-821a-4a7a-9307-205f7606dfcd)
 
-2. Distribution of Injury Severity and Damage Type
-   ![Injury and Damage Distribution](images/injury_damage_distribution.png)
-   These two bar plots depict the distribution of injury severity and damage types resulting from aviation accidents, providing insights into the extent of injuries and damages caused.
+## Conclusion:
+The analysis reveals several key insights:
 
-3. Types of Aircrafts Involved in Accidents with Uninjured Persons
-   ![Aircraft Types Distribution](images/aircraft_types_distribution.png)
-   This plot showcases the distribution of different aircraft types involved in accidents with uninjured persons, aiding in the identification of aircraft types with lower risk profiles.
+1. A declining trend in aviation accidents over the years suggests improvements in safety practices.
+2. Aircraft accidents often result in fatal injuries and substantial damage.
+3. Airplanes and helicopters are the most common types involved in accidents with highest count of uninjured persons.
+4. Aircrafts with fewer engines tend to have higher involvement in high risk accidents.
+5. There is no strong correlation observed between different variables in aviation accidents.
 
-# Conclusion
-The analysis prioritizes aircraft models with a track record of low accident rates, minimal injuries, and minor damages for both commercial and private enterprises. 'Airplane' and 'Helicopter' are identified as commonly involved aircraft types with lower risk profiles. Recommendations emphasize selecting aircraft models aligned with operational requirements and safety performance.
 
-## Summary of Conclusions
-1. The number of aviation accidents has shown a declining trend over the years, indicating improvements in aviation safety.
-2. 'Airplane' and 'Helicopter' are the most common aircraft types involved in accidents with uninjured persons, suggesting lower risk profiles.
-3. Prioritizing aircraft models with proven safety records and minimal involvement in accidents is crucial for both commercial and private ventures.
+## Recommendation:
+Based on the analysis findings, it is recommended that the company prioritize aircraft types, makes, and models with proven safety records and minimal involvement in accidents resulting in minor damages and uninjured persons. Specifically:
+
+Aircraft Type:
+1. Airplane: Considering the prevalence of airplane accidents with uninjured persons, models such as the Boeing 737 exhibit relatively lower risks.
+2. Helicopter: Despite their utility, helicopters are also commonly involved in accidents, suggesting the need for careful evaluation before selection.
+Flight Purposes (Top Models):
+1. Personal: Aircraft models such as the Cessna 182P are recommended for personal use due to their relatively lower involvement in accidents resulting in minor damages and uninjured persons.
+2. Business: For commercial ventures, aircraft models like the Cessna S550 are preferred, given their safety records.
+3. Ferry: Airplane, CESSNA S550 DHC-7-100
+4. Executive/corporate: Airplane, PIPER PA-31-350
+5. Instructional: Airplane, PIPER PA-44-180
+6. Public Aircraft: BEECH 185
+7. Positioning: CESSNA 402C
+8. Other Work Use: CESSNA A60+
+9. Aerial Observation/Application: AIR TRACTOR AT-401
+10. Flight Test: PIPER PA-28-236
+
+Overall, the selection of aircraft should prioritize safety performance while ensuring alignment with operational needs. Thorough safety evaluations and ongoing monitoring of safety metrics are essential to mitigate risks and ensure the success and safety of aviation operations.
 
 
 Tableau : https://public.tableau.com/app/profile/grace.gitau7415/viz/TableauViz_17177744204670/AircraftRiskAnalysisWorkbook?publish=yes
