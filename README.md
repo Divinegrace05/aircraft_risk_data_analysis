@@ -1,3 +1,5 @@
+Presentation slides [here](https://www.canva.com/design/DAGHkutNaXk/DqwhLq9Tao4qDGSr7lnj3A/edit)
+Tableau Dashboard [here](https://public.tableau.com/app/profile/grace.gitau7415/viz/TableauViz_17177744204670/AircraftRiskAnalysisWorkbook?publish=yes)
 
 # AIRCRAFT RISK ANALYSIS
 
@@ -70,4 +72,3 @@ Flight Purposes (Top Models):
 
 Overall, the selection of aircraft should prioritize safety performance while ensuring alignment with operational needs. Thorough safety evaluations and ongoing monitoring of safety metrics are essential to mitigate risks and ensure the success and safety of aviation operations.
 
-Tableau Dashboard: https://public.tableau.com/app/profile/grace.gitau7415/viz/TableauViz_17177744204670/AircraftRiskAnalysisWorkbook?publish=yes
