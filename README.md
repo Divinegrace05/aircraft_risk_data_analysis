@@ -57,7 +57,7 @@ Based on the analysis findings, it is recommended that the company prioritize ai
 
 Aircraft Type:
 1. Airplane: Considering the prevalence of airplane accidents with uninjured persons, models such as the Boeing 737 exhibit relatively lower risks.
-2. Helicopter: Despite their utility, helicopters are also commonly involved in accidents, suggesting the need for careful evaluation before selection.
+2. Helicopter: Consider purcahsing helicopter models such as BELL 206
 
 Flight Purposes (Top Models):
 1. Personal: Aircraft models such as the Cessna 210L are recommended for personal use due to their relatively lower involvement in accidents resulting in minor damages and uninjured persons.
